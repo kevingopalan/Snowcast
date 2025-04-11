@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="school_types">
+        <item>Public</item>
+        <item>Urban Public</item>
+        <item>Rural Public</item>
+        <item>Private Prep</item>
+        <item>Boarding</item>
+    </string-array>
+</resources>
